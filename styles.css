@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	width: 540px;
+	height: 470px;
+	background-color: rgb(68,68,68);
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+div{
+		margin-left: 10px;
+}
+
+img{
+	width: 150px;
+	border-radius: 10px;
+	margin: 10px
+}
